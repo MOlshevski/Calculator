@@ -1,2 +1,2 @@
 # Calculator
-Calculator. Try/expect test
+Calculator. Try/except test
